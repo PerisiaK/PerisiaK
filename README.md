@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PerisiaK
-- 👀 I’m interested in ... Still trying to figure that out 
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...Let's just say, I have a lot to figure out
-- 📫 How to reach me ...through my e-mail...perisiakagize358@gmail.com
+- 👀 I’m interested in Website & Mobile designing and development 
+- 🌱 I’m currently learning React
+- 📫 You can reach me through my e-mail...perisiakagize358@gmail.com
 
 <!---
 PerisiaK/PerisiaK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
